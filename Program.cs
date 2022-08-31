@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Ukraine!");
+            Console.WriteLine("Hello Ukraine, have a nice day!");
         }
     }
 }
